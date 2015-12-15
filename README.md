@@ -1,3 +1,4 @@
+#fork
 # Capistrano::PostgreSQL
 
 **Note: this plugin works only with Capistrano 3.** Plase check the capistrano
